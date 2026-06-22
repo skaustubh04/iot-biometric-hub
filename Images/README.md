@@ -1,7 +1,8 @@
 File added for convenient viewing of images
 
 ### node-red dashboard
-![node-red_dashboard]('node_red_dashboard.png')
+
+![node-red_dashboard](node_red_dashboard.png)
 
 ### node-red flow
 ![node-red_flow]('node-red flow.png')
